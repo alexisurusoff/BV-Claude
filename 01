@@ -249,6 +249,3 @@ if __name__ == "__main__":
     dejar_huella(SEÑAL)
     print(estrategia()) y 
 
----
-0xA7CdfD3751c8F11EECc77FB31BEb8CEDd32687B3
----
